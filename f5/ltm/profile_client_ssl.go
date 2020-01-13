@@ -1,6 +1,6 @@
 package ltm
 
-import "github.com/e-XpertSolutions/f5-rest-client/f5"
+import "github.com/josh5276/f5-rest-client/f5"
 
 type ProfileClientSSLList struct {
 	Items    []ProfileClientSSL `json:"items,omitempty"`

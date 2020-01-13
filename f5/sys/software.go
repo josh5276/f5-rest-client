@@ -7,7 +7,7 @@ package sys
 import (
 	"fmt"
 
-	"github.com/e-XpertSolutions/f5-rest-client/f5"
+	"github.com/josh5276/f5-rest-client/f5"
 )
 
 // SoftwareConfigList holds a list of Software configuration.

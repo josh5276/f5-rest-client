@@ -1,7 +1,7 @@
 # f5-rest-client
 
-[![GoDoc](https://godoc.org/github.com/e-XpertSolutions/f5-rest-client/f5?status.png)](http://godoc.org/github.com/e-XpertSolutions/f5-rest-client/f5)
-[![License](https://img.shields.io/badge/license-BSD%203--Clause-yellow.svg?style=flat)](https://github.com/e-XpertSolutions/f5-rest-client/blob/master/LICENSE)
+[![GoDoc](https://godoc.org/github.com/josh5276/f5-rest-client/f5?status.png)](http://godoc.org/github.com/josh5276/f5-rest-client/f5)
+[![License](https://img.shields.io/badge/license-BSD%203--Clause-yellow.svg?style=flat)](https://github.com/josh5276/f5-rest-client/blob/master/LICENSE)
 
 f5-rest-client implements a REST client to query the F5 Big IP API.
 
@@ -9,7 +9,7 @@ f5-rest-client implements a REST client to query the F5 Big IP API.
 ## Installation
 
 ```
-go get -u github.com/e-XpertSolutions/f5-rest-client/f5
+go get -u github.com/josh5276/f5-rest-client/f5
 ```
 
 
@@ -21,8 +21,8 @@ package main
 import (
 	"log"
 
-	"github.com/e-XpertSolutions/f5-rest-client/f5"
-	"github.com/e-XpertSolutions/f5-rest-client/f5/ltm"
+	"github.com/josh5276/f5-rest-client/f5"
+	"github.com/josh5276/f5-rest-client/f5/ltm"
 )
 
 func main() {
